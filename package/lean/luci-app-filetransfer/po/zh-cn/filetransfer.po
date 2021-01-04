@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgid ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
@@ -12,55 +12,55 @@ msgstr ""
 "X-Generator: Poedit 2.3.1\n"
 
 msgid "Choose local file:"
-msgstr "选择本地文件："
+msgid "Select local file:"
 
 msgid "Couldn't open file:"
-msgstr "无法打开文件："
+msgid "Cannot open file:"
 
 msgid "Create upload file error."
-msgstr "创建上传文件失败。"
+msgid "Failed to create upload file."
 
 msgid "Download"
-msgstr "下载"
+msgid "Download"
 
 msgid "Download file"
-msgstr "下载文件"
+msgid "Download file"
 
 msgid "File name"
-msgstr "文件名"
+msgid "File name"
 
 msgid "File saved to"
-msgstr "文件保存到"
+msgid "Save file to"
 
 msgid "FileTransfer"
-msgstr "文件传输"
+msgid "File transfer"
 
 msgid "Install"
-msgstr "安装"
+msgid "Install"
 
 msgid "Attributes"
-msgstr "属性"
+msgid "Properties"
 
 msgid "Modify time"
-msgstr "修改时间"
+msgid "Modification time"
 
 msgid "No specify upload file."
-msgstr "未指定上传文件。"
+msgid "No upload file specified."
 
 msgid "Path on Route:"
-msgstr "路由根目录："
+msgid "Route Root Directory:"
 
 msgid "Remove"
-msgstr "移除"
+msgid "Remove"
 
 msgid "Size"
-msgstr "大小"
+msgid "Size"
 
 msgid "Upload"
-msgstr "上传"
+msgid "Upload"
 
 msgid "Upload file list"
-msgstr "上传文件列表"
+msgid "Upload file list"
 
-msgid "Upload file to '/tmp/upload/'"
-msgstr "将文件上传到'/tmp/upload/'"
+msgid "Upload file to'/tmp/upload/'"
+msgid "Upload file to'/tmp/upload/'"
