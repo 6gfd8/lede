@@ -150,95 +150,96 @@ msgstr "将要应用规则的网络，例如AAAA::BBBB/64、CCCC::1/128等"
 msgid "No information available"
 msgstr "没有更多的信息"
 
-#: applications/luci-app-nft-qos/luasrc/view/nft-qos/rate.htm:137
+#: applications/luci-app-nft-qos/luasrc/
+view/nft-qos/rate.htm:137
 #: applications/luci-app-nft-qos/luasrc/view/nft-qos/rate.htm:156
 msgid "Packets Total"
-msgstr "数据包总数"
+msgid "Total number of packets"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:207
 msgid "Priority"
-msgstr "优先级"
+msgid "Priority"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:199
 msgid "Protocol"
-msgstr "协议"
+msgid "Protocol"
 
 #: applications/luci-app-nft-qos/luasrc/controller/nft-qos.lua:16
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:23
 msgid "Qos over Nftables"
-msgstr "QoS Nftables 版"
+msgid "QoS Nftables version"
 
 #: applications/luci-app-nft-qos/luasrc/controller/nft-qos.lua:12
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:139
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:176
 msgid "Rate"
-msgstr "速率"
+msgid "rate"
 
 #: applications/luci-app-nft-qos/luasrc/view/nft-qos/rate.htm:130
 msgid "Realtime Download Rate"
-msgstr "实时下载速率"
+msgid "Real-time download rate"
 
 #: applications/luci-app-nft-qos/luasrc/view/nft-qos/rate.htm:125
 msgid "Realtime Rate"
-msgstr "实时速率显示"
+msgid "Real-time rate display"
 
 #: applications/luci-app-nft-qos/luasrc/view/nft-qos/rate.htm:149
 msgid "Realtime Upload Rate"
-msgstr "实时上传速率"
+msgid "Real-time upload rate"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:221
 msgid "Service"
-msgstr "服务"
+msgid "Service"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:116
 msgid "Static QoS-Download Rate"
-msgstr "静态 QoS-下载速率"
+msgid "Static QoS-download rate"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:153
 msgid "Static QoS-Upload Rate"
-msgstr "静态 QoS-上传速率"
+msgid "Static QoS-Upload Rate"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:85
 msgid "Target Network (IPv4/MASK)"
-msgstr "目标网络（IPv4 地址/掩码）"
+msgid "Target network (IPv4 address/mask)"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:91
 msgid "Target Network6 (IPv6/MASK)"
-msgstr "目标网络 v6（IPv6 地址/掩码）"
+msgid "Target network v6 (IPv6 address/mask)"
 
 #: applications/luci-app-nft-qos/luasrc/view/nft-qos/rate.htm:127
 msgid "This page gives an overview over currently download/upload rate."
-msgstr "该页面提供了当前上传和下载速率的一个总览。"
+msgid "This page provides an overview of the current upload and download rates."
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:194
 msgid "Traffic Priority Settings"
-msgstr "流量优先级设置"
+msgid "Traffic priority setting"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:42
 msgid "Type of Limit Rate"
-msgstr "限速的类型"
+msgid "Type of speed limit"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:144
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:181
 msgid "Unit"
-msgstr "单位"
+msgid "Unit"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:80
 msgid "Upload Bandwidth (Mbps)"
-msgstr "上传带宽（Mbps）"
+msgid "Upload bandwidth (Mbps)"
 
 #: applications/luci-app-nft-qos/luasrc/view/nft-qos/rate.htm:154
 msgid "Upload Rate"
-msgstr "上传速率"
+msgid "Upload rate"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:96
 msgid "White List for Limit Rate"
-msgstr "限速白名单"
+msgid "Speed ​​limit whitelist"
 
 #: applications/luci-app-nft-qos/luasrc/model/cbi/nft-qos/nft-qos.lua:221
 msgid "e.g. https, 23, (separator is comma)"
-msgstr "例如https, 23（用逗号分隔）"
+msgid "For example, https, 23 (separated by commas)"
 
 #: applications/luci-app-nft-qos/luasrc/view/nft-qos/rate.htm:44
 msgid "kB"
-msgstr "kB"
+msgid "kB"
