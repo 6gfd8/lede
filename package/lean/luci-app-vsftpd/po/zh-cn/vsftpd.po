@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgid ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
@@ -13,223 +13,223 @@ msgstr ""
 "X-Generator: Poedit 2.3.1\n"
 
 msgid "NAS"
-msgstr "网络存储"
+msgid "Network Storage"
 
 msgid ". and .. are excluded."
-msgstr ". 和 .. 将被忽略。"
+msgid ". and .. will be ignored."
 
 msgid "0 means no limitation"
-msgstr "0 表明不限制"
+msgid "0 means no limit"
 
 msgid "A message will be displayed when entering a directory."
-msgstr "在进入一个新目录时将显示的消息。"
+msgid "The message that will be displayed when entering a new directory."
 
 msgid "ASCII mode"
-msgstr "ASCII 模式"
+msgid "ASCII mode"
 
 msgid "Allow directory recursely list"
-msgstr "允许递归列目录"
+msgid "Allow recursive listing of directories"
 
 msgid "An actual local user to handle anonymous user"
-msgstr "承载匿名用户的本地用户"
+msgid "Local users hosting anonymous users"
 
 msgid "An actual local user to handle virtual users"
-msgstr "承载虚拟用户的本地用户"
+msgid "Local user hosting virtual user"
 
 msgid "Anonymous Settings"
-msgstr "匿名用户设置"
+msgid "Anonymous User Settings"
 
 msgid "Anonymous User"
-msgstr "匿名用户"
+msgid "Anonymous user"
 
 msgid "Both download and upload"
-msgstr "下载和上传"
+msgid "Download and upload"
 
 msgid "Can not be zero, default is 3"
-msgstr "不能为 0，默认为 3"
+msgid "Cannot be 0, default is 3"
 
 msgid "Connection Settings"
-msgstr "连接设置"
+msgid "Connection Settings"
 
 msgid "Connection timeout"
-msgstr "连接超时"
+msgid "Connection timed out"
 
 msgid "Data Port"
-msgstr "数据端口"
+msgid "Data Port"
 
 msgid "Data connection timeout"
-msgstr "数据连接超时"
+msgid "Data connection timeout"
 
 msgid "Directory message filename"
-msgstr "目录消息文件名"
+msgid "Directory message file name"
 
 msgid "Download only"
-msgstr "仅下载"
+msgid "Download only"
 
 msgid "Enable IPv4"
-msgstr "启用 IPv4"
+msgid "Enable IPv4"
 
 msgid "Enable IPv6"
-msgstr "启用 IPv6"
+msgid "Enable IPv6"
 
 msgid "Enable PASV mode"
-msgstr "启用 PASV 模式"
+msgid "Enable PASV mode"
 
 msgid "Enable PORT mode"
-msgstr "启用 PORT 模式"
+msgid "Enable PORT mode"
 
 msgid "Enable directory list"
-msgstr "允许列目录"
+msgid "Allow to list directories"
 
 msgid "Enable directory message"
-msgstr "启用目录消息"
+msgid "Enable directory messages"
 
 msgid "Enable download"
-msgstr "允许下载"
+msgid "Allow download"
 
 msgid "Enable file log"
-msgstr "启用文件日志"
+msgid "Enable file logging"
 
 msgid "Enable local user"
-msgstr "启用本地用户"
+msgid "Enable local users"
 
 msgid "Enable other rights"
-msgstr "允许其它权限"
+msgid "Allow other permissions"
 
 msgid "Enable syslog"
-msgstr "启用系统日志"
+msgid "Enable system log"
 
 msgid "Enable upload"
-msgstr "允许上传"
+msgid "Allow upload"
 
 msgid "Enable write"
-msgstr "允许写"
+msgid "Allow writing"
 
 msgid "Enable write/mkdir"
-msgstr "允许写/创建目录"
+msgid "Allow write/create directory"
 
 msgid "FTP Banner"
-msgstr "FTP 欢迎提示"
+msgid "FTP welcome prompt"
 
 msgid "FTP Server"
-msgstr "FTP 服务器"
+msgid "FTP server"
 
-msgid "FTP Server - Anonymous Settings"
-msgstr "FTP 服务器 - 匿名用户设置"
+msgid "FTP Server-Anonymous Settings"
+msgid "FTP Server-Anonymous User Settings"
 
-msgid "FTP Server - General Settings"
-msgstr "FTP 服务器 - 常规设置"
+msgid "FTP Server-General Settings"
+msgid "FTP Server-General Settings"
 
-msgid "FTP Server - Log Settings"
-msgstr "FTP 服务器 - 日志设置"
+msgid "FTP Server-Log Settings"
+msgid "FTP server-log settings"
 
-msgid "FTP Server - Virtual User %q"
-msgstr "FTP 服务器 - 虚拟用户 %q"
+msgid "FTP Server-Virtual User %q"
+msgid "FTP server-virtual user %q"
 
-msgid "FTP Server - Virtual User &lt;new&gt;"
-msgstr "FTP 服务器 - 虚拟用户 &lt;新用户&gt;"
+msgid "FTP Server-Virtual User &lt;new&gt;"
+msgid "FTP server-virtual user &lt;new user&gt;"
 
-msgid "FTP Server - Virtual User Settings"
-msgstr "FTP 服务器 - 虚拟用户设置"
+msgid "FTP Server-Virtual User Settings"
+msgid "FTP Server-Virtual User Settings"
 
 msgid "File mode umask"
-msgstr "文件权限掩码"
+msgid "File permission mask"
 
 msgid "General Settings"
-msgstr "常规设置"
+msgid "General Settings"
 
 msgid "Global Settings"
-msgstr "全局设置"
+msgid "Global Settings"
 
 msgid "Home directory"
-msgstr "主目录"
+msgid "Home Directory"
 
 msgid "IPv4 Address"
-msgstr "IPv4 地址"
+msgid "IPv4 address"
 
 msgid "IPv6 Address"
-msgstr "IPv6 地址"
+msgid "IPv6 address"
 
 msgid "Idle session timeout"
-msgstr "空闲回话超时"
+msgid "Idle call timeout"
 
 msgid "Include rename, deletion ..."
-msgstr "包括重命名、删除 ..."
+msgid "Including renaming, deleting..."
 
 msgid "Leave empty will use user's home directory"
-msgstr "留空将使用用户主目录"
+msgid "Leave blank to use user home directory"
 
 msgid "Listen Port"
-msgstr "监听端口"
+msgid "Listening port"
 
 msgid "Listening Settings"
-msgstr "监听设置"
+msgid "Monitor settings"
 
 msgid "Local Users"
-msgstr "本地用户"
+msgid "Local user"
 
 msgid "Log Settings"
-msgstr "日志设置"
+msgid "Log Settings"
 
 msgid "Log file"
-msgstr "日志文件"
+msgid "Log file"
 
 msgid "Max clients"
-msgstr "最大连接数"
+msgid "Maximum number of connections"
 
 msgid "Max clients per IP"
-msgstr "同一 IP 的最大连接数"
+msgid "Maximum number of connections from the same IP"
 
 msgid "Max login fail count"
-msgstr "最大登录尝试数"
+msgid "Maximum number of login attempts"
 
 msgid "Max transmit rate"
-msgstr "最大传输速率"
+msgid "Maximum transfer rate"
 
 msgid "Root directory"
-msgstr "根目录"
+msgid "Root Directory"
 
 msgid "Settings"
-msgstr "设置"
+msgid "Settings"
 
 msgid "Show dot files"
-msgstr "显示以点开头的文件 (隐藏文件)"
+msgid "Show files starting with a dot (hidden files)"
 
 msgid "Upload only"
-msgstr "仅上传"
+msgid "Only upload"
 
-msgid "Uploaded file mode will be 666 - &lt;umask&gt;; directory mode will be 777 - &lt;umask&gt;."
-msgstr "上传的文件权限将被设置为 666 - &lt;掩码&gt;；目录权限将被设置为 777 - &lt;掩码&gt;。"
+msgid "Uploaded file mode will be 666-&lt;umask&gt;; directory mode will be 777-&lt;umask&gt;."
+msgid "The uploaded file permissions will be set to 666-&lt;mask&gt;; the directory permissions will be set to 777-&lt;mask&gt;."
 
 msgid "User Settings"
-msgstr "用户设置"
+msgid "User Settings"
 
 msgid "User lists"
-msgstr "用户列表"
+msgid "User List"
 
 msgid "Username cannot be empty"
-msgstr "用户名不能为空"
+msgid "User name cannot be empty"
 
 msgid "When disabled, all download request will give permission denied."
-msgstr "如果禁止，所有的下载请求都将被拒绝。"
+msgid "If disabled, all download requests will be rejected."
 
 msgid "When disabled, all write request will give permission denied."
-msgstr "如果禁止，所有的写类型请求都将被拒绝。"
+msgid "If disabled, all write type requests will be rejected."
 
 msgid "When disabled, list commands will give permission denied."
-msgstr "如果禁止，列目录命令将被拒绝。"
+msgid "If disabled, the list directory command will be rejected."
 
 msgid "Virtual Users"
-msgstr "虚拟用户"
+msgid "Virtual User"
 
 msgid "in seconds"
-msgstr "单位为秒"
+msgid "The unit is seconds"
 
 msgid "in KB/s, 0 means no limitation"
-msgstr "单位为 KB/s，0 表明不限制"
+msgid "The unit is KB/s, 0 means no limit"
 
 msgid "Pasv Min Port"
-msgstr "Pasv 模式最小端口"
+msgid "Pasv mode minimum port"
 
 msgid "Pasv Max Port"
-msgstr "Pasv 模式最大端口"
+msgid "Maximum port in Pasv mode"
