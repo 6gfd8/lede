@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgid ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-23 20:16+0800\n"
 "PO-Revision-Date: 2020-06-07 10:42+0800\n"
@@ -15,22 +15,22 @@ msgstr ""
 "Project-Id-Version: \n"
 
 msgid "Music Remote Center"
-msgstr "PCHiFi 数字转盘遥控"
+msgid "PCHiFi digital turntable remote control"
 
 msgid "Open Web Interface"
-msgstr "打开 Web 管理界面"
+msgid "Open the web management interface"
 
 msgid "Music Remote Center is a DAAP (iTunes Remote), MPD (Music Player Daemon) and RSP (Roku) media server."
-msgstr "PCHiFi 数字转盘遥控是一个基于 DAAP (iTunes Remote), MPD (Music Player Daemon) 和 RSP (Roku) media server 的服务器端播放器<br />后端输出支持 路由器本机声卡输出 /Airplay/ Chromecast。"
+msgid "PCHiFi digital turntable remote control is a server-side player based on DAAP (iTunes Remote), MPD (Music Player Daemon) and RSP (Roku) media server<br />The back-end output supports the router’s native sound card output/Airplay/Chromecast ."
 
 msgid "Database File Path"
-msgstr "数据库文件路径"
+msgid "Database file path"
 
 msgid "Music Directorie Path"
-msgstr "音频文件文件夹路径"
+msgid "Audio file folder path"
 
 msgid "Readme"
-msgstr "使用须知"
+msgid "Notes on Use"
 
 msgid "About iOS Remote Pairing: <br />1. Open the web interface <br /> 2. Start iPhone Remote APP, go to Settings, Add Library<br />3. Enter the pair code in the web interface"
-msgstr "关于 iOS 设备匹配: <br />1. 先打开 Web 管理界面，在 Setting 里面找到 Remotes & Outputs <br /> 2. 安装 iTunes 遥控器, 点击 手动连接，获取匹配码<br />3. 在 Remote Pairing 输入刚才获取的匹配码即可"
+msgid "About iOS device matching: <br />1. First open the Web management interface and find Remotes & Outputs in Setting <br /> 2. Install the iTunes remote control, click manual connection to get the matching code<br />3. Enter the matching code just obtained in Remote Pairing"
