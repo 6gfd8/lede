@@ -25,7 +25,7 @@ gcc binutils bzip2 flex python3 perl make find grep diff unzip gawk getopt
 subversion libz-dev libc-dev rsync
 ```
 
-### Quickstart
+### Quickstart: `git clone https://github.com/D1E7BF44/lede.git && cd lede && ./scripts/feeds update -a && ./scripts/feeds install -a && make menuconfig`
 
 1. Run `./scripts/feeds update -a` to obtain all the latest package definitions
    defined in feeds.conf / feeds.conf.default
